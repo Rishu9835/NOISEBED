@@ -16,7 +16,7 @@
 
 ## How to Use (without web app)
 ### Step 1: Upload a video file you want to process
-### Step 2: rewrite the path or file name and run the python scripts
+### Step 2: rewrite the path or file name and run the python script audio_extract.py then audio_denoise.py
 ### Step 3: For voice modulation - from the options choose one then run the modulation.py script
 ### Step 4: Final step to merge the denoised or modulated audio to initial video input - Run the combine_video_audio.py script and add designated paths 
 ### Step 5: You get a output video with no noise and your own custom modulations

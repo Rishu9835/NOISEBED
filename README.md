@@ -15,7 +15,8 @@
 - 💾 **Downloadable Output**: Processed video is downloadable with improved audio quality.
 
 ## How to Use (without web app)
-### Step 1: Upload a video file you want to process
+### Step 1: Upload a video file you want to process and download the libraries from requirements.txt file 
+#### USE THIS CODE IN TERMINAL TO DOWNLOAD ALL NECESSARY FILES : pip install -r requirements.txt
 ### Step 2: rewrite the path or file name and run the python script audio_extract.py then audio_denoise.py
 ### Step 3: For voice modulation - from the options choose one then run the modulation.py script
 ### Step 4: Final step to merge the denoised or modulated audio to initial video input - Run the combine_video_audio.py script and add designated paths 
